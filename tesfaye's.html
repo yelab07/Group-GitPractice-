@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<body lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      #grid {
+        display: flex;
+        text-align: center;
+        font-size: 50px;
+      }
+      #beakal {
+        background-color: orange;
+        width: 800px;
+        height: 100px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="grid">
+      <div id="beakal">Chill Beakal. It is Your Day</div>
+    </div>
+  </body>
+  <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+  <script>
+    $(document).ready(function () {
+      $("#beakal").hide(300).show(1000).hide(300).show(1000);
+
+      $("#beakal").css({
+        color: "white",
+      });
+
+      alert($("#beakal").text());
+      console.log($("#beakal").text());
+    });
+
+   
+  </script>
+  </body>
+</html>
