@@ -1,3 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
 body {
   background-color: pink;
+}
+
+footer {
+  background-color: #f1f1f1;
+  text-align: center;
+}
+footer h3 {
+  padding: 10px;
+  margin: 10px;
+}
+footer h4 {
+  padding: 10px;
+  margin: 10px;
+}
+
+#beakal {
+  font-size: 50px;
+  background-color: orange;
+  width: 800px;
+  height: 100px;
 }
