@@ -1,0 +1,6 @@
+include jquery ---Hayat 
+change the footer background ---Jerry 
+include image preferred puppy ---Abiy 
+write a function that gives alert saying "chill Beakal" ----Tesfaye 
+include lorem txt ----Hana W 
+the rest of you include whatever you want 
