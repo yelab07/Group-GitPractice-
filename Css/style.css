@@ -9,6 +9,8 @@ body {
 footer {
   background-color: #f1f1f1;
   text-align: center;
+}
+footer h3 h4 {
   padding: 10px;
   margin: 15px;
 }
