@@ -1,3 +1,21 @@
 body {
   background-color: pink;
 }
+h1 {
+  text-align: center;
+  background-color: aqua;
+}
+p {
+  text-decoration: blue;
+  backface-visibility: hidden;
+}
+h2 {
+  background-color: chartreuse;
+  border-style: dotted;
+}
+
+h3 {
+  background-color: crimson;
+  size: 5px;
+  font-size: 70px;
+}
